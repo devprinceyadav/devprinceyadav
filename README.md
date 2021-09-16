@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack developer**
 
-- 📫 How to reach me --instagram id :- **@princeprogrammer**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
