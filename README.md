@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Yadav</h1>
 <h3 align="center">A passionate frontend and Back-end developer from India</h3>
 
-- 🌱 I’m currently learning **Framework and php**
+- 🌱 I’m currently learning firebase and javascript**
 
 - 👯 I’m looking to collaborate on **Full stack developer**
 
