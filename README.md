@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning firebase and javascript**
 
 - 👯 I’m looking to collaborate on **Full stack developer**
+- 
+- 📫 How to reach me **prince33thecool@gmail.com**
 
 
 
