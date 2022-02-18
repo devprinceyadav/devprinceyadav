@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Yadav</h1>
 <h3 align="center">A passionate frontend and Back-end developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dheeraj-giri&label=Profile%20views&color=129e00&style=plastic" alt="Dheeraj-giri" /> </p>
 
 - 🌱 I’m currently learning firebase and javascript**
 
