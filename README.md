@@ -18,7 +18,7 @@
 <a href="https://instagram.com/princeprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@princeprogrammer" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.notion.so/DataScience-practical-73256057fc97418b8a2156640dd5a66e?pvs=4" target="blank">DataScience</a>
+<a href="https://friendly-candy-b68.notion.site/Data-Science-practical-b750a9ff548d4637ae6b8af77fa51a56" target="blank">DataScience</a>
 <a href="https://friendly-candy-b68.notion.site/Data-Science-practical-73256057fc97418b8a2156640dd5a66e" target="blank">Couch DB</a>
 <a href="https://friendly-candy-b68.notion.site/MongoDB-2a28c2ab6bfd494ab31dec4c81460615" target="blank">Mongo DB</a>
 
